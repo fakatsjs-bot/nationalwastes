@@ -1,0 +1,46 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What size dumpster do I need?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The right size depends on the volume and type of debris. We help you estimate based on your project details.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long can I keep the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer flexible rental periods to match residential and commercial project timelines.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What materials are not allowed?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous waste, chemicals, and certain regulated materials cannot be placed in dumpsters. We provide a full list before delivery.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need a permit?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Permits may be required if the dumpster is placed on public property. We guide you through the process if needed.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How soon can delivery be arranged?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer prompt scheduling so you can rent a dumpster without delays.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
